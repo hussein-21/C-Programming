@@ -1,6 +1,4 @@
 // Hussein Alsaidi
-// 11-20-23
-// Coffee Order Strings
 
 #include <stdio.h>
 #include <stdbool.h>
